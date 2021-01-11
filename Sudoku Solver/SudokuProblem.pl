@@ -1,3 +1,5 @@
+% It is a program that solves Sudoku game, implemented using Breadth First search. I have implemented it with help of Eng. Sarah Elnady, her email: s.elnady@fci-cu.edu.eg
+
 board([x,2,6,x,x,x,8,1,x,
 	 3,x,x,7,x,8,x,x,6,
 	 4,x,x,x,5,x,x,x,7,
